@@ -15,7 +15,7 @@
 <br>
 
 <h1 align="center">How can I download the programs and games?</h1>
-<p>-Visiting the <a href="https://anthonycarrillo.itch.io/">itch.io</a> page although publications will also be made through my official <a href="https://acgames.webcindario.com/">AC GAMES.</a> page.</p>
+<p>-Visiting the <a href="https://acgames-developer.itch.io/">itch.io</a> page although publications will also be made through my official <a href="https://acgames.webcindario.com/">AC GAMES.</a> page.</p>
 
 <!--Version en Español-->
 
@@ -36,7 +36,7 @@
 		<p>-Hasta ahora son disponibles para los sistema de <span><i>Windows 7/8.1/10/11</i></span> pero que después habrá para los otros sistemas operativos tanto linux como android etc.</p>
 		<br>
 		<h1 align="center">¿Cómo puedo descargar los programas y juegos?</h1>
-		<p>-Visitando la página de <a href="https://anthonycarrillo.itch.io/">itch.io</a> aunque también se harán publicaciones por mi página oficial de <a href="https://acgames.webcindario.com/">AC GAMES.</a></p>
+		<p>-Visitando la página de <a href="https://acgames.developer.itch.io/">itch.io</a> aunque también se harán publicaciones por mi página oficial de <a href="https://acgames.webcindario.com/">AC GAMES.</a></p>
 
 <!---
 Anthonyzok521/Anthonyzok521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
