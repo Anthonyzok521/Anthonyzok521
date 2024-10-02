@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Musician, Writer, YouTuber, Professor and passionate programmer in Web Development, Software Development and Android Development.**
 
-- 📫 How to reach me **anthonyzok521@gmail.com**
+- 📫 How to reach me **anthony@acteam.dev**
 
-- 📄 Know about my experiences [5 years of programming experience.](5 years of programming experience.)
+- 📄 Know about my experiences (5 years of programming experience.)
 
 - ⚡ Fun fact **I am very social and collaborative with others, I have fun with friends who are always with me.**
 
